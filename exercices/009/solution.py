@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Tue Sep 23 11:41:35 2014
 
@@ -13,4 +12,4 @@ phantom_menace = """Turmoil has engulfed the Galactic Republic. The\
  Chancellor has secretly dispatched two Jedi Knights, the guardians of\
  peace and justice in the galaxy, to settle the conflict"""
 b =phantom_menace.split()
-len (b)
+print (len (b))
